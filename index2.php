@@ -7,6 +7,7 @@
 </head>
 <body>
     <h1>segunda prueba</h1>
+    <h3>titulo 1</h3>
     <a href="holaMundo.php">Otro enlace.</a>
 </body>
 </html>
